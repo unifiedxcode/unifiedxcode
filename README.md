@@ -8,7 +8,7 @@ Open to remote and hybrid roles.
 - 3 years building and maintaining a control panel used by 200+ users (2022–2025)
 - Backend in PHP, frontend in JavaScript, jQuery, HTML5 and CSS
 - Debian Linux server administration and Proxmox virtualization
-- Learning Hebrew, comfortable with technical English
+- Learning Hebrew, comfortable with technical English or Russian
 
 ## Tech stack
 
